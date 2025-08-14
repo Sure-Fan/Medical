@@ -5,3 +5,28 @@
 4. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
 5. [2025 CVPR] **Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline** [[paper]](https://arxiv.org/pdf/2411.12814) [[code]](https://github.com/uni-medical/IMIS-Bench)
 6. [2025 ICCV] **MaskSAM: Auto-prompt SAM with Mask Classification for Volumetric Medical Image Segmentation**
+7. [2025 ICCV] **Toward Fair and Accurate Cross-Domain Medical Image Segmentation: A VLM-Driven Active Domain Adaptation Paradigm**
+8. [2025 ICCV] **Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates**
+9. [2025 ICCV] **Seeing the Trees for the Forest: Rethinking Weakly-Supervised Medical Visual Grounding**
+10. [2025 ICCV] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis**
+11. [2025 ICCV] **UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments**
+12. [2025 ICCV] **SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images**
+13. [2025 ICCV] **UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation**
+14. [2025 ICCV] **An OpenMind for 3D medical vision self-supervised learning**
+15. [2025 ICCV] **Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models**
+16. [2025 ICCV] **Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification**
+17. [2025 ICCV] **Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation**
+18. [2025 ICCV] **MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation**
+19. [2025 ICCV] **Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation** [[paper]]()
+20. [2025 ICCV] **Progressive Test Time Energy Adaptation for Medical Image Segmentation**
+21. [2025 ICCV] **ProbMed: A Probabilistic Framework for Medical Multimodal Binding**
+22. [2025 ICCV] **Is Visual in-Context Learning for Compositional Medical Tasks within Reach?**
+23. [2025 ICCV] **SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation**
+24. [2025 ICCV] **Medical World Model**
+25. [2025 ICCV] **FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging**
+26. [2025 ICCV] **Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation**
+27. [2025 ICCV] **Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning**
+28. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior**
+29. [2025 ICCV] **Similarity Memory Prior is All You Need for Medical Image Segmentation**
+30. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology**
+31. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**
