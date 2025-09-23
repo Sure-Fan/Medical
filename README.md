@@ -33,3 +33,5 @@
 32. [2025 ICCV] **Similarity Memory Prior is All You Need for Medical Image Segmentation**
 33. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology**
 34. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**
+35. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images**
+36. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**
