@@ -1,3 +1,9 @@
+# Medical Image Segmentation
+1. [2023 IPMI] **Human-machine Interactive Tissue Prototype Learning for Label-efficient Histopathology Image Segmentation** [[paper]](https://arxiv.org/pdf/2211.14491) [[code]](https://github.com/WinterPan2017/proto2seg)
+2. [2025 CVPR] **PBIP: Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Prototype-Based_Image_Prompting_for_Weakly_Supervised_Histopathological_Image_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/QingchenTang/PBIP/tree/main)
+3. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/SegDINO)
+4. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
+
 # Medical Image Analysis
 1. [2024 ELSEVIER] **Neighbor-Aware Calibration of Segmentation Networks with Penalty-Based Constraints** [[paper]](https://arxiv.org/pdf/2401.14487) [[code]](https://github.com/Bala93/MarginLoss)
 2. [2024 NIPS] **Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation** [[paper]](https://arxiv.org/pdf/2411.15763) [[code]](https://github.com/arvindmvepa/al-seg)
@@ -35,3 +41,6 @@
 34. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**
 35. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images**
 36. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**
+
+# Histopathology Benchmark
+1. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
