@@ -3,6 +3,8 @@
 2. [2025 CVPR] **PBIP: Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Prototype-Based_Image_Prompting_for_Weakly_Supervised_Histopathological_Image_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/QingchenTang/PBIP/tree/main)
 3. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/SegDINO)
 4. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
+5. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous)
+6. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
 
 # Medical Image Analysis
 1. [2024 ELSEVIER] **Neighbor-Aware Calibration of Segmentation Networks with Penalty-Based Constraints** [[paper]](https://arxiv.org/pdf/2401.14487) [[code]](https://github.com/Bala93/MarginLoss)
