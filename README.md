@@ -1,9 +1,9 @@
 # Content
->~[[Medical Image Segmentation](#Segmentation)]
->~[[Medical Image Analysis](#Analysis)]
->~[[Medical Image of 3D & 4D](#34D)]
->~[[Histopathology Benchmark](#Benchmark)]
->~[[Histopathology Data](#Data)]
+>[[Medical Image Segmentation](#Segmentation)]
+>[[Medical Image Analysis](#Analysis)]
+>[[Medical Image of 3D & 4D](#34D)]
+>[[Histopathology Benchmark](#Benchmark)]
+>[[Histopathology Data](#Data)]
 
 <a name="Segmentation"></a>
 # Medical Image Segmentation
