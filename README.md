@@ -25,13 +25,6 @@
 24. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
 25. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
 
-# Histopathology Benchmark
-1. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
-
-# Histopathology Data
-1. [2022 ELSEVIER] **Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels** [[paper]](https://doi.org/10.1016/j.media.2022.102487) [[code]](https://github.com/ChuHan89/WSSS-Tissue)
-2. [2025 ELSEVIER] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
-
 # Medical Image Analysis
 1. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
 2. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
@@ -55,3 +48,10 @@
 3. [2025 ICCV] **Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation** [[paper]](https://arxiv.org/pdf/2411.06106)
 4. [2025 ICCV] **Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning** [[papaer]](https://arxiv.org/pdf/2507.02581)
 5. [2025 ICCV] **FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging** [[https://arxiv.org/pdf/2507.04547]] [[code]](https://github.com/AlexYouXin/FB-Diff)
+
+# Histopathology Benchmark
+1. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
+
+# Histopathology Data
+1. [2022 ELSEVIER] **Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels** [[paper]](https://doi.org/10.1016/j.media.2022.102487) [[code]](https://github.com/ChuHan89/WSSS-Tissue)
+2. [2025 ELSEVIER] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
