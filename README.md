@@ -12,12 +12,18 @@
 11. [2025 ICCV] **Toward Fair and Accurate Cross-Domain Medical Image Segmentation: A VLM-Driven Active Domain Adaptation Paradigm**
 12. [2025 ICCV] **Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates** [[paper]](https://arxiv.org/pdf/2504.02008)
 13. [2025 ICCV] **UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2504.06908) [[code]](https://github.com/EmmanuelleB985/UK_BOB/tree/main)
-14. [2025 MICCAI] **Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts** [[paper]](https://papers.miccai.org/miccai-2025/paper/1419_paper.pdf) [[note]](https://mp.weixin.qq.com/s/Rfe-pO2AFMnH9avUMC_FMA?scene=1&click_id=2)
-15. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/SegDINO)
-16. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
-17. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous)
-18. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
-19. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
+14. [2025 ICCV] **Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/html/2407.21586v1)
+15. [2025 ICCV] **Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation** [[paper]](https://arxiv.org/pdf/2507.11055)
+16. [2025 ICCV] **Progressive Test Time Energy Adaptation for Medical Image Segmentation** [[paper]](https://www.arxiv.org/pdf/2503.16616)
+17. [2025 ICCV] **SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2411.15513) [[code]](https://github.com/SuperMedIntel/SPA)
+18. [2025 ICCV] **Similarity Memory Prior is All You Need for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2507.00585) [[code]](https://github.com/vpsg-research/Sim-MPNet)
+19. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** 
+20. [2025 MICCAI] **Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts** [[paper]](https://papers.miccai.org/miccai-2025/paper/1419_paper.pdf) [[note]](https://mp.weixin.qq.com/s/Rfe-pO2AFMnH9avUMC_FMA?scene=1&click_id=2)
+21. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/SegDINO)
+22. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
+23. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous)
+24. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
+25. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
 
 # Histopathology Benchmark
 1. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
@@ -27,29 +33,25 @@
 2. [2025 ELSEVIER] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
 
 # Medical Image Analysis
+1. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
+2. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
+3. [2025 ICCV] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** [[paper]](https://arxiv.org/html/2411.16778v1)
+4. [2025 ICCV] **UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments** [[paper]](https://arxiv.org/pdf/2506.22736)
+5. [2025 ICCV] **SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images**
+6. [2025 ICCV] **Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2507.09209)
+7. [2025 ICCV] **Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification** [[paper]](https://arxiv.org/pdf/2507.21703)
+8. [2025 ICCV] **MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation** [[paper]](https://arxiv.org/pdf/2509.21265?)
+9. [2025 ICCV] **ProbMed: A Probabilistic Framework for Medical Multimodal Binding** [[paper]](https://www.arxiv.org/pdf/2509.25711) [[code]](https://github.com/mcintoshML/probMED)
+10. [2025 ICCV] **Is Visual in-Context Learning for Compositional Medical Tasks within Reach?** [[[paper]](https://arxiv.org/pdf/2507.00868)
+11. [2025 ICCV] **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [[paper]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
+12. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [paper](https://arxiv.org/pdf/2403.18878)
+13. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
+14. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs** [[paper]](https://arxiv.org/pdf/2504.06897) [[code]]()
+15. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
+
+# Medical Image of 3D & 4D
 1. [2024 NIPS] **Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation** [[paper]](https://arxiv.org/pdf/2411.15763) [[code]](https://github.com/arvindmvepa/al-seg)
-4. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
-6. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
-13. [2025 ICCV] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** [[paper]](https://arxiv.org/html/2411.16778v1)
-14. [2025 ICCV] **UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments** [[paper]](https://arxiv.org/pdf/2506.22736)
-15. [2025 ICCV] **SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images** 
-17. [2025 ICCV] **An OpenMind for 3D medical vision self-supervised learning** [[paper]](https://arxiv.org/pdf/2412.17041)
-18. [2025 ICCV] **Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models**
-19. [2025 ICCV] **Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification**
-20. [2025 ICCV] **Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation**
-21. [2025 ICCV] **MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation**
-22. [2025 ICCV] **Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation** [[paper]]()
-23. [2025 ICCV] **Progressive Test Time Energy Adaptation for Medical Image Segmentation**
-24. [2025 ICCV] **ProbMed: A Probabilistic Framework for Medical Multimodal Binding**
-25. [2025 ICCV] **Is Visual in-Context Learning for Compositional Medical Tasks within Reach?**
-26. [2025 ICCV] **SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation**
-27. [2025 ICCV] **Medical World Model**
-28. [2025 ICCV] **FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging**
-29. [2025 ICCV] **Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation**
-30. [2025 ICCV] **Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning**
-31. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior**
-32. [2025 ICCV] **Similarity Memory Prior is All You Need for Medical Image Segmentation**
-33. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology**
-34. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**
-35. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images**
-36. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**
+2. [2025 ICCV] **An OpenMind for 3D medical vision self-supervised learning** [[paper]](https://arxiv.org/pdf/2412.17041)
+3. [2025 ICCV] **Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation** [[paper]](https://arxiv.org/pdf/2411.06106)
+4. [2025 ICCV] **Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning** [[papaer]](https://arxiv.org/pdf/2507.02581)
+5. [2025 ICCV] **FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging** [[https://arxiv.org/pdf/2507.04547]] [[code]](https://github.com/AlexYouXin/FB-Diff)
