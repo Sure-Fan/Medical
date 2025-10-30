@@ -1,3 +1,11 @@
+# Content
+[[Medical Image Segmentation](#Segmentation)]
+[[Medical Image Analysis](#Analysis)]
+[[Medical Image of 3D & 4D](#34D)]
+[[Histopathology Benchmark](#Benchmark)]
+[[Histopathology Data](#Data)]
+
+<a name="Segmentation"></a>
 # Medical Image Segmentation
 1. [2023 MICCAI] **TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation** [[code]](https://github.com/zhangst431/TPRO/tree/main)
 2. [2023 IPMI] **Human-machine Interactive Tissue Prototype Learning for Label-efficient Histopathology Image Segmentation** [[paper]](https://arxiv.org/pdf/2211.14491) [[code]](https://github.com/WinterPan2017/proto2seg)
@@ -25,6 +33,7 @@
 24. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
 25. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
 
+<a name="Analysis"></a>
 # Medical Image Analysis
 1. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
 2. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
@@ -42,6 +51,7 @@
 14. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs** [[paper]](https://arxiv.org/pdf/2504.06897) [[code]]()
 15. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
 
+<a name="34D"></a>
 # Medical Image of 3D & 4D
 1. [2024 NIPS] **Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation** [[paper]](https://arxiv.org/pdf/2411.15763) [[code]](https://github.com/arvindmvepa/al-seg)
 2. [2025 ICCV] **An OpenMind for 3D medical vision self-supervised learning** [[paper]](https://arxiv.org/pdf/2412.17041)
@@ -49,9 +59,11 @@
 4. [2025 ICCV] **Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning** [[papaer]](https://arxiv.org/pdf/2507.02581)
 5. [2025 ICCV] **FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging** [[https://arxiv.org/pdf/2507.04547]] [[code]](https://github.com/AlexYouXin/FB-Diff)
 
+<a name="Benchmark"></a>
 # Histopathology Benchmark
 1. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
 
+<a name="Data"></a>
 # Histopathology Data
 1. [2022 ELSEVIER] **Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels** [[paper]](https://doi.org/10.1016/j.media.2022.102487) [[code]](https://github.com/ChuHan89/WSSS-Tissue)
 2. [2025 ELSEVIER] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
