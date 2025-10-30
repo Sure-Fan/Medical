@@ -46,7 +46,7 @@
 9. [2025 ICCV] **ProbMed: A Probabilistic Framework for Medical Multimodal Binding** [[paper]](https://www.arxiv.org/pdf/2509.25711) [[code]](https://github.com/mcintoshML/probMED)
 10. [2025 ICCV] **Is Visual in-Context Learning for Compositional Medical Tasks within Reach?** [[[paper]](https://arxiv.org/pdf/2507.00868)
 11. [2025 ICCV] **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [[paper]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
-12. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [paper](https://arxiv.org/pdf/2403.18878)
+12. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [[paper]](https://arxiv.org/pdf/2403.18878)
 13. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
 14. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs** [[paper]](https://arxiv.org/pdf/2504.06897) [[code]]()
 15. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
