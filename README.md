@@ -25,13 +25,14 @@
 16. [2025 ICCV] **Progressive Test Time Energy Adaptation for Medical Image Segmentation** [[paper]](https://www.arxiv.org/pdf/2503.16616)
 17. [2025 ICCV] **SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2411.15513) [[code]](https://github.com/SuperMedIntel/SPA)
 18. [2025 ICCV] **Similarity Memory Prior is All You Need for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2507.00585) [[code]](https://github.com/vpsg-research/Sim-MPNet)
-19. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** 
-20. [2025 MICCAI] **Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts** [[paper]](https://papers.miccai.org/miccai-2025/paper/1419_paper.pdf) [[note]](https://mp.weixin.qq.com/s/Rfe-pO2AFMnH9avUMC_FMA?scene=1&click_id=2)
-21. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/SegDINO)
-22. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
-23. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous)
-24. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
-25. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
+19. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs** [[paper]](https://arxiv.org/pdf/2504.06897) [[code]]()
+20. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** 
+21. [2025 MICCAI] **Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts** [[paper]](https://papers.miccai.org/miccai-2025/paper/1419_paper.pdf) [[note]](https://mp.weixin.qq.com/s/Rfe-pO2AFMnH9avUMC_FMA?scene=1&click_id=2)
+22. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/SegDINO)
+23. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
+24. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous)
+25. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
+26. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
 
 <a name="Analysis"></a>
 # Medical Image Analysis
@@ -48,8 +49,7 @@
 11. [2025 ICCV] **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [[paper]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
 12. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [[paper]](https://arxiv.org/pdf/2403.18878)
 13. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
-14. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs** [[paper]](https://arxiv.org/pdf/2504.06897) [[code]]()
-15. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
+14. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
 
 <a name="34D"></a>
 # Medical Image of 3D & 4D
