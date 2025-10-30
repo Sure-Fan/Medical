@@ -11,6 +11,13 @@
 10. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
 11. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
 
+# Histopathology Benchmark
+1. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
+
+# Histopathology Data
+1. [2022 ELSEVIER] **Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels** [[paper]](https://doi.org/10.1016/j.media.2022.102487) [[code]](https://github.com/ChuHan89/WSSS-Tissue)
+2. [2025 ELSEVIER] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
+
 # Medical Image Analysis
 1. [2024 ELSEVIER] **Neighbor-Aware Calibration of Segmentation Networks with Penalty-Based Constraints** [[paper]](https://arxiv.org/pdf/2401.14487) [[code]](https://github.com/Bala93/MarginLoss)
 2. [2024 NIPS] **Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation** [[paper]](https://arxiv.org/pdf/2411.15763) [[code]](https://github.com/arvindmvepa/al-seg)
@@ -48,6 +55,3 @@
 34. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**
 35. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images**
 36. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**
-
-# Histopathology Benchmark
-1. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
