@@ -57,7 +57,7 @@
 2. [2025 ICCV] **An OpenMind for 3D medical vision self-supervised learning** [[paper]](https://arxiv.org/pdf/2412.17041)
 3. [2025 ICCV] **Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation** [[paper]](https://arxiv.org/pdf/2411.06106)
 4. [2025 ICCV] **Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning** [[papaer]](https://arxiv.org/pdf/2507.02581)
-5. [2025 ICCV] **FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging** [[https://arxiv.org/pdf/2507.04547]] [[code]](https://github.com/AlexYouXin/FB-Diff)
+5. [2025 ICCV] **FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging** [paper]](https://arxiv.org/pdf/2507.04547) [[code]](https://github.com/AlexYouXin/FB-Diff)
 
 <a name="Benchmark"></a>
 # Histopathology Benchmark
