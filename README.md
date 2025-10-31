@@ -65,6 +65,6 @@
 
 <a name="Data"></a>
 # Histopathology Data
-1. [2022 ELSEVIER] **Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels** [[paper]](https://doi.org/10.1016/j.media.2022.102487) [[code]](https://github.com/ChuHan89/WSSS-Tissue)
-2. [2025 ELSEVIER] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
-3. [2023 IEEE] **Semi-Supervised Pixel Contrastive Learning Framework for Tissue Segmentation in Histopathological Image** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926096) [[code]](https://github.com/Jiangbo-Shi/SSPCL)
+1. [2022 LUAD] **Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels** [[paper]](https://doi.org/10.1016/j.media.2022.102487) [[code]](https://github.com/ChuHan89/WSSS-Tissue)
+2. [2023] **Semi-Supervised Pixel Contrastive Learning Framework for Tissue Segmentation in Histopathological Image** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926096) [[code]](https://github.com/Jiangbo-Shi/SSPCL)
+3. [2025] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
