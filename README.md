@@ -1,5 +1,3 @@
-**Histopathology images are very complex and this [[link]](https://github.com/Sure-Fan/Medical/blob/main/Categories.png) could hely you to distinguish the categories of these.**
-
 # Content
 >[[Medical Image Segmentation](#Segmentation)]
 >[[Medical Image Analysis](#Analysis)]
