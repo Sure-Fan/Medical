@@ -1,3 +1,5 @@
+Histopathology images are very complex and this [[link]]() could hely you to distinguish the categories of these.
+
 # Content
 >[[Medical Image Segmentation](#Segmentation)]
 >[[Medical Image Analysis](#Analysis)]
@@ -6,7 +8,7 @@
 >[[Histopathology Data](#Data)]
 
 <a name="Segmentation"></a>
-# Medical Image Segmentation
+# Histopathology Image Segmentation
 1. [2023 MICCAI] **TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation** [[code]](https://github.com/zhangst431/TPRO/tree/main)
 2. [2023 IPMI] **Human-machine Interactive Tissue Prototype Learning for Label-efficient Histopathology Image Segmentation** [[paper]](https://arxiv.org/pdf/2211.14491) [[code]](https://github.com/WinterPan2017/proto2seg)
 3. [2024 NIPS] **Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?** [[paper]](https://arxiv.org/pdf/2501.11803v2) [[code]](https://github.com/RiqiangGao/GDP-HMM_AAPMChallenge)
@@ -35,7 +37,7 @@
 26. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
 
 <a name="Analysis"></a>
-# Medical Image Analysis
+# Histopathology Image Analysis
 1. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
 2. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
 3. [2025 ICCV] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** [[paper]](https://arxiv.org/html/2411.16778v1)
@@ -52,7 +54,7 @@
 14. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
 
 <a name="34D"></a>
-# Medical Image of 3D & 4D
+# Histopathology Image of 3D & 4D
 1. [2024 NIPS] **Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation** [[paper]](https://arxiv.org/pdf/2411.15763) [[code]](https://github.com/arvindmvepa/al-seg)
 2. [2025 ICCV] **An OpenMind for 3D medical vision self-supervised learning** [[paper]](https://arxiv.org/pdf/2412.17041)
 3. [2025 ICCV] **Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation** [[paper]](https://arxiv.org/pdf/2411.06106)
