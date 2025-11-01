@@ -19,7 +19,6 @@
 10. [2025 ICCV] **MaskSAM: Auto-prompt SAM with Mask Classification for Volumetric Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2403.14103)
 11. [2025 ICCV] **Toward Fair and Accurate Cross-Domain Medical Image Segmentation: A VLM-Driven Active Domain Adaptation Paradigm**
 12. [2025 ICCV] **Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates** [[paper]](https://arxiv.org/pdf/2504.02008)
-13. [2025 ICCV] **UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2504.06908) [[code]](https://github.com/EmmanuelleB985/UK_BOB/tree/main)
 14. [2025 ICCV] **Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/html/2407.21586v1)
 15. [2025 ICCV] **Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation** [[paper]](https://arxiv.org/pdf/2507.11055)
 16. [2025 ICCV] **Progressive Test Time Energy Adaptation for Medical Image Segmentation** [[paper]](https://www.arxiv.org/pdf/2503.16616)
@@ -58,6 +57,7 @@
 3. [2025 ICCV] **Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation** [[paper]](https://arxiv.org/pdf/2411.06106)
 4. [2025 ICCV] **Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning** [[papaer]](https://arxiv.org/pdf/2507.02581)
 5. [2025 ICCV] **FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging** [[paper]](https://arxiv.org/pdf/2507.04547) [[code]](https://github.com/AlexYouXin/FB-Diff)
+6. [2025 ICCV] **UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2504.06908) [[code]](https://github.com/EmmanuelleB985/UK_BOB/tree/main)
 
 <a name="Benchmark"></a>
 # Histopathology Benchmark
