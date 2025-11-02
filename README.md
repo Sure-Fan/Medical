@@ -24,7 +24,7 @@
 16. [2025 ICCV] **Progressive Test Time Energy Adaptation for Medical Image Segmentation** [[paper]](https://www.arxiv.org/pdf/2503.16616)
 17. [2025 ICCV] **SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2411.15513) [[code]](https://github.com/SuperMedIntel/SPA)
 18. [2025 ICCV] **Similarity Memory Prior is All You Need for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2507.00585) [[code]](https://github.com/vpsg-research/Sim-MPNet)
-19. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs** [[paper]](https://arxiv.org/pdf/2504.06897) [[code]](https://arxiv.org/pdf/2507.11055)
+19. [2025 ICCV] **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs** [[paper]](https://arxiv.org/pdf/2504.06897)
 20. [2025 ICCV]  **MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance** [[paper]](https://arxiv.org/pdf/2412.15058) [[code]](https://github.com/halleewong/MultiverSeg)
 21. [2025 ICCV] **ProLearn: Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation** [[paper]](https://arxiv.org/pdf/2507.11055) [[code]](https://github.com/ShuchangYe-bib/ProLearn)
 22. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** 
