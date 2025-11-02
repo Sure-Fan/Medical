@@ -50,7 +50,8 @@
 11. [2025 ICCV] **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [[paper]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
 12. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [[paper]](https://arxiv.org/pdf/2403.18878)
 13. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
-14. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
+14. [2025 ICCV] **GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology** [[paper]](https://arxiv.org/pdf/2504.01009) [[code]](https://github.com/bmi-imaginelab/GECKO/tree/main)
+15. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
 
 <a name="34D"></a>
 # Histopathology Image of 3D & 4D
