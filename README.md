@@ -7,7 +7,7 @@
 
 <a name="Segmentation"></a>
 # Histopathology Image Segmentation
-1. [2023 MICCAI] **TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation** [[code]](https://github.com/zhangst431/TPRO/tree/main)
+1. [2023 MICCAI] **TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_11) [[code]](https://github.com/zhangst431/TPRO/tree/main)
 2. [2023 IPMI] **Human-machine Interactive Tissue Prototype Learning for Label-efficient Histopathology Image Segmentation** [[paper]](https://arxiv.org/pdf/2211.14491) [[code]](https://github.com/WinterPan2017/proto2seg)
 3. [2024 NIPS] **Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?** [[paper]](https://arxiv.org/pdf/2501.11803v2) [[code]](https://github.com/RiqiangGao/GDP-HMM_AAPMChallenge)
 4. [2024 arXiv] **Active Label Correction for Semantic Segmentation with Foundation Models** [[paper]](https://arxiv.org/pdf/2403.10820) [[code]](https://github.com/ml-postech/active-label-correction)
