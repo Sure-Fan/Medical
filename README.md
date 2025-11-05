@@ -39,19 +39,20 @@
 # Histopathology Image Analysis
 1. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
 2. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
-3. [2025 ICCV] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** [[paper]](https://arxiv.org/html/2411.16778v1)
-4. [2025 ICCV] **UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments** [[paper]](https://arxiv.org/pdf/2506.22736)
-5. [2025 ICCV] **SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images**
-6. [2025 ICCV] **Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2507.09209)
-7. [2025 ICCV] **Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification** [[paper]](https://arxiv.org/pdf/2507.21703)
-8. [2025 ICCV] **MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation** [[paper]](https://arxiv.org/pdf/2509.21265?)
-9. [2025 ICCV] **ProbMed: A Probabilistic Framework for Medical Multimodal Binding** [[paper]](https://www.arxiv.org/pdf/2509.25711) [[code]](https://github.com/mcintoshML/probMED)
-10. [2025 ICCV] **Is Visual in-Context Learning for Compositional Medical Tasks within Reach?** [[[paper]](https://arxiv.org/pdf/2507.00868)
-11. [2025 ICCV] **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [[paper]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
-12. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [[paper]](https://arxiv.org/pdf/2403.18878)
-13. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
-14. [2025 ICCV] **GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology** [[paper]](https://arxiv.org/pdf/2504.01009) [[code]](https://github.com/bmi-imaginelab/GECKO/tree/main)
-15. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
+3. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
+4. [2025 ICCV] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** [[paper]](https://arxiv.org/html/2411.16778v1)
+5. [2025 ICCV] **UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments** [[paper]](https://arxiv.org/pdf/2506.22736)
+6. [2025 ICCV] **SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images**
+7. [2025 ICCV] **Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2507.09209)
+8. [2025 ICCV] **Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification** [[paper]](https://arxiv.org/pdf/2507.21703)
+9. [2025 ICCV] **MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation** [[paper]](https://arxiv.org/pdf/2509.21265?)
+10. [2025 ICCV] **ProbMed: A Probabilistic Framework for Medical Multimodal Binding** [[paper]](https://www.arxiv.org/pdf/2509.25711) [[code]](https://github.com/mcintoshML/probMED)
+11. [2025 ICCV] **Is Visual in-Context Learning for Compositional Medical Tasks within Reach?** [[[paper]](https://arxiv.org/pdf/2507.00868)
+12. [2025 ICCV] **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [[paper]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
+13. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [[paper]](https://arxiv.org/pdf/2403.18878)
+14. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
+15. [2025 ICCV] **GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology** [[paper]](https://arxiv.org/pdf/2504.01009) [[code]](https://github.com/bmi-imaginelab/GECKO/tree/main)
+16. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
 
 <a name="34D"></a>
 # Histopathology Image of 3D & 4D
