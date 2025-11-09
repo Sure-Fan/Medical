@@ -20,7 +20,6 @@
 11. [2025 ICCV] **Toward Fair and Accurate Cross-Domain Medical Image Segmentation: A VLM-Driven Active Domain Adaptation Paradigm**
 12. [2025 ICCV] **Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates** [[paper]](https://arxiv.org/pdf/2504.02008)
 14. [2025 ICCV] **Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/html/2407.21586v1)
-15. [2025 ICCV] **Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation** [[paper]](https://arxiv.org/pdf/2507.11055)
 16. [2025 ICCV] **Progressive Test Time Energy Adaptation for Medical Image Segmentation** [[paper]](https://www.arxiv.org/pdf/2503.16616)
 17. [2025 ICCV] **SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2411.15513) [[code]](https://github.com/SuperMedIntel/SPA)
 18. [2025 ICCV] **Similarity Memory Prior is All You Need for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2507.00585) [[code]](https://github.com/vpsg-research/Sim-MPNet)
