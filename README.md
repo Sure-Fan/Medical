@@ -52,6 +52,7 @@
 14. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
 15. [2025 ICCV] **GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology** [[paper]](https://arxiv.org/pdf/2504.01009) [[code]](https://github.com/bmi-imaginelab/GECKO/tree/main)
 16. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
+17. [2025 NIPS] **ABMILX: Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology** [[paper]](https://arxiv.org/pdf/2506.02408) [[code]](https://github.com/DearCaat/E2E-WSI-ABMILX)
 
 <a name="34D"></a>
 # Histopathology Image of 3D & 4D
