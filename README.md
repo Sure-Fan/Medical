@@ -12,6 +12,7 @@
 4. [2024 arXiv] **Active Label Correction for Semantic Segmentation with Foundation Models** [[paper]](https://arxiv.org/pdf/2403.10820) [[code]](https://github.com/ml-postech/active-label-correction)
 5. [2024 ELSEVIER] **Neighbor-Aware Calibration of Segmentation Networks with Penalty-Based Constraints** [[paper]](https://arxiv.org/pdf/2401.14487) [[code]](https://github.com/Bala93/MarginLoss)
 6. [2025 CVPR] **PBIP: Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Prototype-Based_Image_Prompting_for_Weakly_Supervised_Histopathological_Image_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/QingchenTang/PBIP/tree/main)
+7. [2025 CVPR] **Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline** [[paper]](https://arxiv.org/pdf/2411.12814) [[code]](https://github.com/uni-medical/IMIS-Bench)
 8. [2025 ICCV] **Seeing the Trees for the Forest: Rethinking Weakly-Supervised Medical Visual Grounding** [[paper]](https://arxiv.org/pdf/2505.15123) [[note]](https://mp.weixin.qq.com/s/Rfe-pO2AFMnH9avUMC_FMA?scene=1&click_id=2)
 9. [2025 ICCV] **TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound** [[paper]](https://www.arxiv.org/pdf/2507.18082) [[code]](https://github.com/HealthX-Lab/TextSAM-EUS) [[note]](https://mp.weixin.qq.com/s/ze4mJbvPlP7oc63rzfMnKA?scene=1&click_id=1)
 10. [2025 ICCV] **MaskSAM: Auto-prompt SAM with Mask Classification for Volumetric Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2403.14103)
@@ -65,7 +66,6 @@
 # Histopathology Benchmark
 1. [2024 NIPS] **Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?** [[paper]](https://arxiv.org/pdf/2411.03670) [[code]](https://github.com/MrGiovanni/Touchstone)
 2. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
-3. [2025 CVPR] **Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline** [[paper]](https://arxiv.org/pdf/2411.12814) [[code]](https://github.com/uni-medical/IMIS-Bench)
 
 <a name="Data"></a>
 # Histopathology Data
