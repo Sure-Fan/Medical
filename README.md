@@ -67,6 +67,7 @@
 # Histopathology Benchmark
 1. [2024 NIPS] **Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?** [[paper]](https://arxiv.org/pdf/2411.03670) [[code]](https://github.com/MrGiovanni/Touchstone)
 2. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
+3. [2025 Nature] **Benchmarking foundation models as feature extractors for weakly supervised computational pathology** [[paper]](https://arxiv.org/pdf/2408.15823)
 
 <a name="Data"></a>
 # Histopathology Data
