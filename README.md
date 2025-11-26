@@ -56,6 +56,8 @@
 17. [2025 ICCV] **GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology** [[paper]](https://arxiv.org/pdf/2504.01009) [[code]](https://github.com/bmi-imaginelab/GECKO/tree/main)
 18. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
 19. [2025 NIPS] **ABMILX: Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology** [[paper]](https://arxiv.org/pdf/2506.02408) [[code]](https://github.com/DearCaat/E2E-WSI-ABMILX) [[note]](https://mp.weixin.qq.com/s/6tgfHFZPqaXONUkjtM_KfA?scene=1&click_id=9)
+20. [2025 NIPS] **Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling** [[paper]](https://arxiv.org/pdf/2505.17982) [[note]](https://github.com/bryanwong17/HiVE-MIL)
+21. [2025 NIPS] **RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability** [[paper]](https://arxiv.org/pdf/2504.07416) [[note]](https://github.com/deepnoid-ai/RadZero)
 
 <a name="34D"></a>
 # Histopathology Image of 3D & 4D
