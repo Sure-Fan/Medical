@@ -32,9 +32,10 @@
 26. [2025 MICCAI] **Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation** [[paper]](https://arxiv.org/pdf/2509.06740) [[code]](https://github.com/xq141839/Co-Seg) [[note]](https://mp.weixin.qq.com/s/TmUA55qHjvz-hD1V9FT3Yw)
 27. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/SegDINO)
 28. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
-29. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous)
-30. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
-31. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
+29. [2025 arXiv] **MedSAM3: Delving into Segment Anything with Medical Concepts** [[paper]](https://arxiv.org/pdf/2511.19046) [[code]](https://github.com/Joey-S-Liu/MedSAM3) [[note]](https://mp.weixin.qq.com/s/8bX1dDXKLJD_dAD2NO4XpQ)
+30. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous)
+31. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
+32. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
 
 <a name="Analysis"></a>
 # Histopathology Image Analysis
