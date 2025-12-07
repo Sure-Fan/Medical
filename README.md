@@ -2,11 +2,11 @@
 >[[Medical Image Segmentation](#Segmentation)]
 >[[Medical Image Analysis](#Analysis)]
 >[[Medical Image of 3D & 4D](#34D)]
->[[Histopathology Benchmark](#Benchmark)]
+>[[Medical Benchmark](#Benchmark)]
 >[[Histopathology Data](#Data)]
 
 <a name="Segmentation"></a>
-# Histopathology Image Segmentation
+# Medical Image Segmentation
 1. [2023 MICCAI] **TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_11) [[code]](https://github.com/zhangst431/TPRO/tree/main)
 2. [2023 IPMI] **Human-machine Interactive Tissue Prototype Learning for Label-efficient Histopathology Image Segmentation** [[paper]](https://arxiv.org/pdf/2211.14491) [[code]](https://github.com/WinterPan2017/proto2seg)
 4. [2024 arXiv] **Active Label Correction for Semantic Segmentation with Foundation Models** [[paper]](https://arxiv.org/pdf/2403.10820) [[code]](https://github.com/ml-postech/active-label-correction)
@@ -42,7 +42,7 @@
 36. [2026 AAAI] **Cyto-SSL: A Self-Supervised Pretraining Framework for Cytology Foundation Model** [[paper]](https://github.com/P2CR/Cyto-SSL/blob/main/Paper.pdf) [[note]](https://mp.weixin.qq.com/s/VA7xaWK-ei_efSHhYpltEA)
 
 <a name="Analysis"></a>
-# Histopathology Image Analysis
+# Medical Image Analysis
 1. [2022 EMNLP]  **MedCLIP: Contrastive Learning from Unpaired Medical Images and Texts** [[paper]](https://arxiv.org/pdf/2210.10163) [[code]](https://github.com/RyanWangZf/MedCLIP)
 2. [2024 arXiv] **Histo-TransCLIP: Boosting VLMs for Histopathology Classification** [[paper]](https://arxiv.org/pdf/2409.01883) [[code]](https://github.com/FereshteShakeri/Histo-TransCLIP)
 3. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
@@ -68,7 +68,7 @@
 23. [2025 Nature] **A pathology foundation model for cancer diagnosis and prognosis prediction**  [[paper]](https://www.nature.com/articles/s41586-024-07894-z) [[note]](https://mp.weixin.qq.com/s/2PsDXiVLwye-CzgMdR1qyQ)
 
 <a name="34D"></a>
-# Histopathology Image of 3D & 4D
+# Medical Image of 3D & 4D
 1. [2024 NIPS] **Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation** [[paper]](https://arxiv.org/pdf/2411.15763) [[code]](https://github.com/arvindmvepa/al-seg)
 2. [2025 ICCV] **An OpenMind for 3D medical vision self-supervised learning** [[paper]](https://arxiv.org/pdf/2412.17041)
 3. [2025 ICCV] **Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation** [[paper]](https://arxiv.org/pdf/2411.06106)
@@ -77,7 +77,7 @@
 6. [2025 ICCV] **UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2504.06908) [[code]](https://github.com/EmmanuelleB985/UK_BOB/tree/main)
 
 <a name="Benchmark"></a>
-# Histopathology Benchmark
+# Medical Benchmark
 1. [2024 NIPS] **Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?** [[paper]](https://arxiv.org/pdf/2411.03670) [[code]](https://github.com/MrGiovanni/Touchstone)
 2. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
 3. [2025 Nature] **Benchmarking foundation models as feature extractors for weakly supervised computational pathology** [[paper]](https://arxiv.org/pdf/2408.15823) [[code]](https://github.com/KatherLab/STAMP)
