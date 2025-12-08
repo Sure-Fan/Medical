@@ -41,6 +41,7 @@
 35. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf)
 36. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[reference]](https://arxiv.org/pdf/2106.09685)
 37. [2026 AAAI] **Cyto-SSL: A Self-Supervised Pretraining Framework for Cytology Foundation Model** [[paper]](https://github.com/P2CR/Cyto-SSL/blob/main/Paper.pdf) [[note]](https://mp.weixin.qq.com/s/VA7xaWK-ei_efSHhYpltEA)
+38. [2026 AAAI] **ProPL: Universal Semi-Supervised Ultrasound Image Segmentation via Prompt-Guided Pseudo-Labeling** [[paper]](https://arxiv.org/pdf/2511.15057) [[code]](https://github.com/WUTCM-Lab/ProPL) [[note]](https://mp.weixin.qq.com/s/jC3t4ouOh86yKUzjSv6zZA)
 
 <a name="Analysis"></a>
 # Medical Image Analysis
