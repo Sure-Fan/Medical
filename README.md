@@ -7,8 +7,9 @@
 
 <a name="Segmentation"></a>
 # Medical Image Segmentation
-1. [2023 MICCAI] **TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_11) [[code]](https://github.com/zhangst431/TPRO/tree/main)
-2. [2023 IPMI] **Human-machine Interactive Tissue Prototype Learning for Label-efficient Histopathology Image Segmentation** [[paper]](https://arxiv.org/pdf/2211.14491) [[code]](https://github.com/WinterPan2017/proto2seg)
+1. [2022 MICCAI] **Online Easy Example Mining for Weakly-supervised Gland Segmentation from Histology Images** [[paper]](https://arxiv.org/pdf/2206.06665) [[code]](https://github.com/xmed-lab/OEEM)
+2. [2023 MICCAI] **TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_11) [[code]](https://github.com/zhangst431/TPRO/tree/main)
+3. [2023 IPMI] **Human-machine Interactive Tissue Prototype Learning for Label-efficient Histopathology Image Segmentation** [[paper]](https://arxiv.org/pdf/2211.14491) [[code]](https://github.com/WinterPan2017/proto2seg)
 4. [2024 arXiv] **Active Label Correction for Semantic Segmentation with Foundation Models** [[paper]](https://arxiv.org/pdf/2403.10820) [[code]](https://github.com/ml-postech/active-label-correction)
 5. [2024 ELSEVIER] **Neighbor-Aware Calibration of Segmentation Networks with Penalty-Based Constraints** [[paper]](https://arxiv.org/pdf/2401.14487) [[code]](https://github.com/Bala93/MarginLoss)
 6. [2025 CVPR] **PBIP: Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Prototype-Based_Image_Prompting_for_Weakly_Supervised_Histopathological_Image_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/QingchenTang/PBIP/tree/main) [[note]](https://mp.weixin.qq.com/s/8InmjMi6UqBjokb1VJ8-NQ?scene=1&click_id=4)
