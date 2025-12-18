@@ -88,6 +88,7 @@
 <a name="Data"></a>
 # Histopathology Data
 1. [2019 BCSS] **Structured crowdsourcing enables convolutional segmentation of histology images** [[paper]](https://academic.oup.com/bioinformatics/article/35/18/3461/5307750) [[code]](https://github.com/junqiangchen/CrowdsourcingDataset-Amgadetal2019) [[code]](https://github.com/PathologyDataScience/BCSS)
-2. [2023 GCSS] **Semi-Supervised Pixel Contrastive Learning Framework for Tissue Segmentation in Histopathological Image** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926096) [[code]](https://github.com/Jiangbo-Shi/SSPCL)
-3. [2023 BCSS-WSSS&LUAD-HistoSeg] **Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels** [[paper]](https://doi.org/10.1016/j.media.2022.102487) [[code]](https://github.com/ChuHan89/WSSS-Tissue)
-4. [2025 BCSS-WSSS&LUAD-HistoSeg] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
+2. [2020 PanNuke] **PanNuke Dataset Extension, Insights and Baselines** [[paper]](https://arxiv.org/pdf/2003.10778) [[code]](https://github.com/MachineVisionTeam/PanNuke-Data-Processing/) [[download]](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/pannuke)
+3. [2023 GCSS] **Semi-Supervised Pixel Contrastive Learning Framework for Tissue Segmentation in Histopathological Image** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926096) [[code]](https://github.com/Jiangbo-Shi/SSPCL)
+4. [2023 BCSS-WSSS&LUAD-HistoSeg] **Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels** [[paper]](https://doi.org/10.1016/j.media.2022.102487) [[code]](https://github.com/ChuHan89/WSSS-Tissue)
+5. [2025 BCSS-WSSS&LUAD-HistoSeg] **Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression** [[paper]](https://doi.org/10.1016/j.engappai.2025.111100) [[code]](https://github.com/Z-hualong/wsss-tissue)
