@@ -3,7 +3,7 @@
 >[[Medical Image Analysis](#Analysis)]
 >[[Medical Image of 3D & 4D](#34D)]
 >[[Medical Benchmark](#Benchmark)]
->>[[Histopathology Foundational Model](#Foundational)]
+>[[Histopathology Foundational Model](#Foundational)]
 >[[Histopathology Data](#Data)]
 
 <a name="Segmentation"></a>
