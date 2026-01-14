@@ -91,6 +91,7 @@
 3. [2025 Nature] **Benchmarking foundation models as feature extractors for weakly supervised computational pathology** [[paper]](https://arxiv.org/pdf/2408.15823) [[code]](https://github.com/KatherLab/STAMP)
 
 <a name="Foundational"></a>
+# Histopathology foundational Model
 1. [2024 arXiv] **Hibou: A family of foundational vision transformers for pathology** [[paper]](https://arxiv.org/pdf/2406.05074) [[code]](https://github.com/HistAI/hibou) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=HIBOU%3A+A+FAMILY+OF+FOUNDATIONAL+VISION+TRANSFORMERS+FOR+PATHOLOGY&btnG=)
 
 <a name="Data"></a>
