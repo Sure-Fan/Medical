@@ -90,8 +90,8 @@
 <a name="Foundational"></a>
 # Medical foundational Model
 1. [2024 arXiv] **Hibou: A family of foundational vision transformers for pathology** [[paper]](https://arxiv.org/pdf/2406.05074) [[code]](https://github.com/HistAI/hibou) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=HIBOU%3A+A+FAMILY+OF+FOUNDATIONAL+VISION+TRANSFORMERS+FOR+PATHOLOGY&btnG=)
-2. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
-3. [2022 EMNLP]  **MedCLIP: Contrastive Learning from Unpaired Medical Images and Texts** [[paper]](https://arxiv.org/pdf/2210.10163) [[code]](https://github.com/RyanWangZf/MedCLIP)
+2. [2025 arXiv] **MedDINOv3: How to adapt vision foundation models for medical image segmentation?** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedDINOv3%3A+How+to+adapt+vision+foundation+models+for+medical+image+segmentation%3F&btnG=)
+3. [2022 EMNLP]  **MedCLIP: Contrastive Learning from Unpaired Medical Images and Texts** [[paper]](https://arxiv.org/pdf/2210.10163) [[code]](https://github.com/RyanWangZf/MedCLIP) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedCLIP%3A+Contrastive+Learning+from+Unpaired+Medical+Images+and+Texts&btnG=)
 
 <a name="Data"></a>
 # Histopathology Data
