@@ -4,6 +4,7 @@
 >[[Medical Image of 3D & 4D](#34D)]
 >[[Medical Benchmark](#Benchmark)]
 >[[Histopathology Data](#Data)]
+>[[Histopathology Foundational Model](#Foundational)]
 
 <a name="Segmentation"></a>
 # Medical Image Segmentation
@@ -88,6 +89,9 @@
 1. [2024 NIPS] **Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?** [[paper]](https://arxiv.org/pdf/2411.03670) [[code]](https://github.com/MrGiovanni/Touchstone)
 2. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
 3. [2025 Nature] **Benchmarking foundation models as feature extractors for weakly supervised computational pathology** [[paper]](https://arxiv.org/pdf/2408.15823) [[code]](https://github.com/KatherLab/STAMP)
+
+<a name="Foundational"></a>
+1. [2024 arXiv] **Hibou: A family of foundational vision transformers for pathology** [[paper]](https://arxiv.org/pdf/2406.05074) [[code]](https://github.com/HistAI/hibou) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=HIBOU%3A+A+FAMILY+OF+FOUNDATIONAL+VISION+TRANSFORMERS+FOR+PATHOLOGY&btnG=)
 
 <a name="Data"></a>
 # Histopathology Data
