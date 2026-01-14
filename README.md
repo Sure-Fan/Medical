@@ -3,7 +3,7 @@
 >[[Medical Image Analysis](#Analysis)]
 >[[Medical Image of 3D & 4D](#34D)]
 >[[Medical Benchmark](#Benchmark)]
->[[Histopathology Foundational Model](#Foundational)]
+>[[Medical Foundational Model](#Foundational)]
 >[[Histopathology Data](#Data)]
 
 <a name="Segmentation"></a>
@@ -40,7 +40,6 @@
 32. [2025 MIA] **Learning multi-modal representations by watching hundreds of surgical video lectures** [[paper]](https://arxiv.org/pdf/2307.15220) [[code]](https://github.com/CAMMA-public/SurgVLP) [[google]](https://scholar.google.com/scholar?q=Learning+Multi-modal+Representations+by+Watching+Hundreds+of+Surgical+Video+Lectures&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)
 33. [2025 arXiv] **More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery** [[paper]](https://arxiv.org/pdf/2512.07596) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=More+than+Segmentation%3A+Benchmarking+SAM+3+for+Segmentation%2C+3D+Perception%2C+and+Reconstruction+in+Robotic+Surgery&btnG=)
 34. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/SegDINO)
-35. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
 36. [2025 arXiv] **MedSAM3: Delving into Segment Anything with Medical Concepts** [[paper]](https://arxiv.org/pdf/2511.19046) [[code]](https://github.com/Joey-S-Liu/MedSAM3) [[note]](https://mp.weixin.qq.com/s/8bX1dDXKLJD_dAD2NO4XpQ)
 37. [2025 arXiv] **WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM With Sub-Class Exploration and Prompt Affinity Mining** [[paper]](https://arxiv.org/pdf/2503.04106) [[code]](https://github.com/wanghr64/WeakMedSAM) [[note]](https://mp.weixin.qq.com/s/Jqyew--V5cZrPXy2XQxUog?scene=1&click_id=36)
 38. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous)
@@ -51,7 +50,6 @@
 
 <a name="Analysis"></a>
 # Medical Image Analysis
-1. [2022 EMNLP]  **MedCLIP: Contrastive Learning from Unpaired Medical Images and Texts** [[paper]](https://arxiv.org/pdf/2210.10163) [[code]](https://github.com/RyanWangZf/MedCLIP)
 2. [2024 arXiv] **Histo-TransCLIP: Boosting VLMs for Histopathology Classification** [[paper]](https://arxiv.org/pdf/2409.01883) [[code]](https://github.com/FereshteShakeri/Histo-TransCLIP)
 3. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
 4. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
@@ -91,8 +89,10 @@
 3. [2025 Nature] **Benchmarking foundation models as feature extractors for weakly supervised computational pathology** [[paper]](https://arxiv.org/pdf/2408.15823) [[code]](https://github.com/KatherLab/STAMP)
 
 <a name="Foundational"></a>
-# Histopathology foundational Model
+# Medical foundational Model
 1. [2024 arXiv] **Hibou: A family of foundational vision transformers for pathology** [[paper]](https://arxiv.org/pdf/2406.05074) [[code]](https://github.com/HistAI/hibou) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=HIBOU%3A+A+FAMILY+OF+FOUNDATIONAL+VISION+TRANSFORMERS+FOR+PATHOLOGY&btnG=)
+2. [2025 arXiv] **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3)
+3. [2022 EMNLP]  **MedCLIP: Contrastive Learning from Unpaired Medical Images and Texts** [[paper]](https://arxiv.org/pdf/2210.10163) [[code]](https://github.com/RyanWangZf/MedCLIP)
 
 <a name="Data"></a>
 # Histopathology Data
