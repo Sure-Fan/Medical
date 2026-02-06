@@ -86,6 +86,7 @@
 1. [2024 NIPS] **Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?** [[paper]](https://arxiv.org/pdf/2411.03670) [[code]](https://github.com/MrGiovanni/Touchstone)
 2. [2025 NIPS] **THUNDER: Tile-level Histopathology image UNDERstanding benchmark** [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder) [[Home]](https://mics-lab.github.io/thunder/)
 3. [2025 Nature] **Benchmarking foundation models as feature extractors for weakly supervised computational pathology** [[paper]](https://arxiv.org/pdf/2408.15823) [[code]](https://github.com/KatherLab/STAMP)
+4. [2026 arXiv] **To What Extent Do Token-Level Representations from Pathology Foundation Models Improve Dense Prediction?** [[paper]](https://arxiv.org/pdf/2602.03887) [[code]](https://github.com/lingxitong/PFM_Segmentation)
 
 <a name="Foundational"></a>
 # Medical foundational Model
