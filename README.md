@@ -49,6 +49,7 @@
 42. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[code]](https://github.com/BearCleverProud/MR-Block) [[note]](https://mp.weixin.qq.com/s/Rl0av0kYWDyVwv6VE49r_A) [[reference]](https://arxiv.org/pdf/2106.09685) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Exploiting+Low-Dimensional+Manifold+of+Features+for+Few-shot+Whole+Slide+Image+Classification&btnG=)
 43. [2026 AAAI] **Cyto-SSL: A Self-Supervised Pretraining Framework for Cytology Foundation Model** [[paper]](https://github.com/P2CR/Cyto-SSL/blob/main/Paper.pdf) [[note]](https://mp.weixin.qq.com/s/VA7xaWK-ei_efSHhYpltEA)
 44. [2026 AAAI] **ProPL: Universal Semi-Supervised Ultrasound Image Segmentation via Prompt-Guided Pseudo-Labeling** [[paper]](https://arxiv.org/pdf/2511.15057) [[code]](https://github.com/WUTCM-Lab/ProPL) [[note]](https://mp.weixin.qq.com/s/jC3t4ouOh86yKUzjSv6zZA) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ProPL%3A+Universal+Semi-Supervised+Ultrasound+Image+Segmentation+via+Prompt-Guided+Pseudo-Labelin&btnG=)
+45. [2026 arXiv] **SAIL: Sparse Autoencoders for Interpretable Medical Image Representation Learning** [[paper]](https://arxiv.org/abs/2603.23794) [[code]](https://github.com/pwesp/sail)
 
 <a name="Analysis"></a>
 # Medical Image Analysis
