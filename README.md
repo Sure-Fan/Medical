@@ -50,6 +50,7 @@
 43. [2026 AAAI] **Cyto-SSL: A Self-Supervised Pretraining Framework for Cytology Foundation Model** [[paper]](https://github.com/P2CR/Cyto-SSL/blob/main/Paper.pdf) [[note]](https://mp.weixin.qq.com/s/VA7xaWK-ei_efSHhYpltEA)
 44. [2026 AAAI] **ProPL: Universal Semi-Supervised Ultrasound Image Segmentation via Prompt-Guided Pseudo-Labeling** [[paper]](https://arxiv.org/pdf/2511.15057) [[code]](https://github.com/WUTCM-Lab/ProPL) [[note]](https://mp.weixin.qq.com/s/jC3t4ouOh86yKUzjSv6zZA) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ProPL%3A+Universal+Semi-Supervised+Ultrasound+Image+Segmentation+via+Prompt-Guided+Pseudo-Labelin&btnG=)
 45. [2026 arXiv] **SAIL: Sparse Autoencoders for Interpretable Medical Image Representation Learning** [[paper]](https://arxiv.org/abs/2603.23794) [[code]](https://github.com/pwesp/sail)
+46. [2026 arXiv] **Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding** [[paper]](https://arxiv.org/pdf/2604.01749) [[code]](https://github.com/ZJUDataIntelligence/Ultrasound-CLIP) [[note]](https://mp.weixin.qq.com/s/oGBXI8sPsLfVuVPZm7IhDw)
 
 <a name="Analysis"></a>
 # Medical Image Analysis
