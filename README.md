@@ -77,6 +77,7 @@
 22. [2025 Nature] **Towards a general-purpose foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02857-3) [[note]](https://mp.weixin.qq.com/s/mwpwpq8gUmjUDyGpn5rBUg)
 23. [2025 Nature] **A pathology foundation model for cancer diagnosis and prognosis prediction**  [[paper]](https://www.nature.com/articles/s41586-024-07894-z) [[note]](https://mp.weixin.qq.com/s/2PsDXiVLwye-CzgMdR1qyQ)
 24. [2026 CVPR] **Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images** [[paper]](https://arxiv.org/pdf/2603.18461) [[code]](https://github.com/naivete5656/CPNN) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cell-Type+Prototype-Informed+Neural+Network+for+Gene+Expression+Estimation+from+Pathology+Images&btnG=)
+25. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[code]](https://github.com/BearCleverProud/MR-Block) [[reference]](https://arxiv.org/pdf/2106.09685) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Exploiting+Low-Dimensional+Manifold+of+Features+for+Few-shot+Whole+Slide+Image+Classification&btnG=) [[note]](https://mp.weixin.qq.com/s/Rl0av0kYWDyVwv6VE49r_A)
 
 <a name="34D"></a>
 # Medical Image of 3D & 4D
