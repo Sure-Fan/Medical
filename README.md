@@ -78,7 +78,6 @@
 8. [2025 MICCAI] **Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts** [[paper]](https://papers.miccai.org/miccai-2025/paper/1419_paper.pdf) [[note]](https://mp.weixin.qq.com/s/Rfe-pO2AFMnH9avUMC_FMA?scene=1&click_id=2) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Metastatic+Lymph+Node+Station+Classification+in+Esophageal+Cancer+via+Prior-guided+Supervision+and+Station-Aware+Mixture-of-Experts&btnG=)
 9. [2026 CVPR] **FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Dong_FBTA_Enabling_Single-GPU_End-to-End_Gigapixel_WSI_Classification_with_Feature_Bridging_CVPR_2026_paper.pdf)
 10. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[code]](https://github.com/BearCleverProud/MR-Block) [[reference]](https://arxiv.org/pdf/2106.09685) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Exploiting+Low-Dimensional+Manifold+of+Features+for+Few-shot+Whole+Slide+Image+Classification&btnG=) [[note]](https://mp.weixin.qq.com/s/Rl0av0kYWDyVwv6VE49r_A)
-11. 
 
 <a name="Analysis"></a>
 # Medical Image Analysis
