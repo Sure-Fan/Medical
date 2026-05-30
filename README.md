@@ -1,5 +1,6 @@
 # Content
 >[[Medical Image Segmentation](#Segmentation)]
+>[Medical Image Classification](#Classification)]
 >[[Medical Image Analysis](#Analysis)]
 >[[Medical Image of 3D & 4D](#34D)]
 >[[Medical Benchmark](#Benchmark)]
