@@ -20,7 +20,6 @@
 6. [2025 ISBI] **Multimodal Weakly Supervised Segmentation for Histopathology** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10980775) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Multimodal+Weakly+Supervised+Segmentation+for+Histopathology&btnG=)
 7. [2025 arXiv] **WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM With Sub-Class Exploration and Prompt Affinity Mining** [[paper]](https://arxiv.org/pdf/2503.04106) [[code]](https://github.com/wanghr64/WeakMedSAM) [[note]](https://mp.weixin.qq.com/s/Jqyew--V5cZrPXy2XQxUog?scene=1&click_id=36) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=WeakMedSAM%3A+Weakly-Supervised+Medical+Image+Segmentation+via+SAM+With+Sub-Class+Exploration+and+Prompt+Affinity+Mining&btnG=)
 8. [2025 arXiv] **Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis** [[paper]](https://arxiv.org/pdf/2507.02395) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Continual+Multiple+Instance+Learning+with+Enhanced+Localization+for+Histopathological+Whole+Slide+Image+Analysis&btnG=)
-9. 
 
 <a name="Semi"></a>
 # Semi Supervised Medical Image Segmentation
@@ -28,7 +27,6 @@
 2. [2025 NIPS] **Segment Anything Model Meets Semi-supervised Medical Image Segmentation: A Novel Perspective** [[paper]](https://openreview.net/pdf?id=wHx7UuRm7G) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Segment+Anything+Model+Meets+Semi-supervised+Medical+Image+Segmentation%3A+A+Novel+Perspective&btnG=)
 3. [2026 CVPR] **UniSemAlign: Text–Prototype Alignment with a Foundation Encoder for Semi-Supervised Histopathology Segmentation** [[paper]](https://arxiv.org/pdf/2604.09169) [[code]](https://github.com/thailevann/UniSemAlign)
 4. [2026 AAAI] **ProPL: Universal Semi-Supervised Ultrasound Image Segmentation via Prompt-Guided Pseudo-Labeling** [[paper]](https://arxiv.org/pdf/2511.15057) [[code]](https://github.com/WUTCM-Lab/ProPL) [[note]](https://mp.weixin.qq.com/s/jC3t4ouOh86yKUzjSv6zZA) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ProPL%3A+Universal+Semi-Supervised+Ultrasound+Image+Segmentation+via+Prompt-Guided+Pseudo-Labelin&btnG=)
-5. 
 
 <a name="Training"></a>
 # Training Medical Image Segmentation
@@ -58,6 +56,7 @@
 24. [2026 ICLR] **Rethinking Contrastive Language-Image Pre-Training for Medical Cross-Modal Retrieval: Beyond One-to-One Correspondence** [[paper]](https://openreview.net/attachment?id=HPAzsibJFM&name=pdf) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Rethinking+Contrastive+Language-Image+Pre-Training+for+Medical+Cross-Modal+Retrieval%3A+Beyond+One-to-One+Correspondence&btnG=)
 25. [2026 AAAI] **Cyto-SSL: A Self-Supervised Pretraining Framework for Cytology Foundation Model** [[paper]](https://github.com/P2CR/Cyto-SSL/blob/main/Paper.pdf) [[note]](https://mp.weixin.qq.com/s/VA7xaWK-ei_efSHhYpltEA)
 26. [2026 arXiv] **SAIL: Sparse Autoencoders for Interpretable Medical Image Representation Learning** [[paper]](https://arxiv.org/pdf/2603.23794) [[code]](https://github.com/pwesp/sail)
+27. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [[paper]](https://arxiv.org/pdf/2403.18878)
 
 
 <a name="Training_free"></a>
@@ -66,35 +65,34 @@
 2. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/527d9d8f89aec80d634e366a97f49ba8-Paper-Conference.pdf) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cancer+Survival+Analysis+via+Zero-shot+Tumor+Microenvironment+Segmentation+on+Low-resolution+Whole+Slide+Pathology+Images&btnG=)
 3. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SPROUT%3A+Training-free+Nuclear+Instance+Segmentation+with+Automatic+Prompting&btnG=)
 
-
-28. [2025 MICCAI] **Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts** [[paper]](https://papers.miccai.org/miccai-2025/paper/1419_paper.pdf) [[note]](https://mp.weixin.qq.com/s/Rfe-pO2AFMnH9avUMC_FMA?scene=1&click_id=2) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Metastatic+Lymph+Node+Station+Classification+in+Esophageal+Cancer+via+Prior-guided+Supervision+and+Station-Aware+Mixture-of-Experts&btnG=)
+<a name="Classification"></a>
+# Medical Image Classification
+1. [2024 arXiv] **Histo-TransCLIP: Boosting VLMs for Histopathology Classification** [[paper]](https://arxiv.org/pdf/2409.01883) [[code]](https://github.com/FereshteShakeri/Histo-TransCLIP)
+2. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
+3. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
+4. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
+5. [2025 NIPS] **ABMILX: Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology** [[paper]](https://arxiv.org/pdf/2506.02408) [[code]](https://github.com/DearCaat/E2E-WSI-ABMILX) [[note]](https://mp.weixin.qq.com/s/6tgfHFZPqaXONUkjtM_KfA?scene=1&click_id=9) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Revisiting+End-to-End+Learning+with+Slide-level+Supervision+in+Computational+Pathology.&btnG=)
+6. [2025 NIPS] **Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling** [[paper]](https://arxiv.org/pdf/2505.17982) [[code]](https://github.com/bryanwong17/HiVE-MIL)
+7. [2025 MICCAI] **Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts** [[paper]](https://papers.miccai.org/miccai-2025/paper/1419_paper.pdf) [[note]](https://mp.weixin.qq.com/s/Rfe-pO2AFMnH9avUMC_FMA?scene=1&click_id=2) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Metastatic+Lymph+Node+Station+Classification+in+Esophageal+Cancer+via+Prior-guided+Supervision+and+Station-Aware+Mixture-of-Experts&btnG=)
+8. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[code]](https://github.com/BearCleverProud/MR-Block) [[reference]](https://arxiv.org/pdf/2106.09685) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Exploiting+Low-Dimensional+Manifold+of+Features+for+Few-shot+Whole+Slide+Image+Classification&btnG=) [[note]](https://mp.weixin.qq.com/s/Rl0av0kYWDyVwv6VE49r_A)
 
 <a name="Analysis"></a>
 # Medical Image Analysis
-1. [2024 arXiv] **Histo-TransCLIP: Boosting VLMs for Histopathology Classification** [[paper]](https://arxiv.org/pdf/2409.01883) [[code]](https://github.com/FereshteShakeri/Histo-TransCLIP)
-3. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
-4. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
-6. [2025 ICCV] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** [[paper]](https://arxiv.org/html/2411.16778v1)
-7. [2025 ICCV] **UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments** [[paper]](https://arxiv.org/pdf/2506.22736)
-8. [2025 ICCV] **SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images**
-9. [2025 ICCV] **Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2507.09209)
-10. [2025 ICCV] **Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification** [[paper]](https://arxiv.org/pdf/2507.21703)
-11. [2025 ICCV] **MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation** [[paper]](https://arxiv.org/pdf/2509.21265?)
-12. [2025 ICCV] **ProbMed: A Probabilistic Framework for Medical Multimodal Binding** [[paper]](https://www.arxiv.org/pdf/2509.25711) [[code]](https://github.com/mcintoshML/probMED)
-13. [2025 ICCV] **Is Visual in-Context Learning for Compositional Medical Tasks within Reach?** [[[paper]](https://arxiv.org/pdf/2507.00868)
-14. [2025 ICCV] **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [[paper]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
-15. [2025 ICCV] **Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior** [[paper]](https://arxiv.org/pdf/2403.18878)
-16. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
-17. [2025 ICCV] **GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology** [[paper]](https://arxiv.org/pdf/2504.01009) [[code]](https://github.com/bmi-imaginelab/GECKO/tree/main)
-18. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
-19. [2025 NIPS] **ABMILX: Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology** [[paper]](https://arxiv.org/pdf/2506.02408) [[code]](https://github.com/DearCaat/E2E-WSI-ABMILX) [[note]](https://mp.weixin.qq.com/s/6tgfHFZPqaXONUkjtM_KfA?scene=1&click_id=9) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Revisiting+End-to-End+Learning+with+Slide-level+Supervision+in+Computational+Pathology.&btnG=)
-20. [2025 NIPS] **Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling** [[paper]](https://arxiv.org/pdf/2505.17982) [[code]](https://github.com/bryanwong17/HiVE-MIL)
-21. [2025 NIPS] **RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability** [[paper]](https://arxiv.org/pdf/2504.07416) [[code]](https://github.com/deepnoid-ai/RadZero)
-22. [2025 Nature] **Towards a general-purpose foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02857-3) [[note]](https://mp.weixin.qq.com/s/mwpwpq8gUmjUDyGpn5rBUg)
-23. [2025 Nature] **A pathology foundation model for cancer diagnosis and prognosis prediction**  [[paper]](https://www.nature.com/articles/s41586-024-07894-z) [[note]](https://mp.weixin.qq.com/s/2PsDXiVLwye-CzgMdR1qyQ)
-24. [2026 CVPR] **Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images** [[paper]](https://arxiv.org/pdf/2603.18461) [[code]](https://github.com/naivete5656/CPNN) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cell-Type+Prototype-Informed+Neural+Network+for+Gene+Expression+Estimation+from+Pathology+Images&btnG=)
-25. [2026 CVPR] **Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding** [[paper]](https://arxiv.org/pdf/2604.01749) [[code]](https://github.com/ZJUDataIntelligence/Ultrasound-CLIP) [[note]](https://mp.weixin.qq.com/s/oGBXI8sPsLfVuVPZm7IhDw)
-26. [2026 ICLR] **Exploiting Low-Dimensional Manifold of Features for Few-shot Whole Slide Image Classification** [[paper]](https://openreview.net/pdf?id=HBP9uSEYME) [[code]](https://github.com/BearCleverProud/MR-Block) [[reference]](https://arxiv.org/pdf/2106.09685) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Exploiting+Low-Dimensional+Manifold+of+Features+for+Few-shot+Whole+Slide+Image+Classification&btnG=) [[note]](https://mp.weixin.qq.com/s/Rl0av0kYWDyVwv6VE49r_A)
+1. [2025 arXiv] **A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision** [[paper]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/FLAIR)
+2. [2025 ICCV] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** [[paper]](https://arxiv.org/html/2411.16778v1)
+3. [2025 ICCV] **UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments** [[paper]](https://arxiv.org/pdf/2506.22736)
+4. [2025 ICCV] **Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2507.09209)
+5. [2025 ICCV] **Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification** [[paper]](https://arxiv.org/pdf/2507.21703)
+6. [2025 ICCV] **MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation** [[paper]](https://arxiv.org/pdf/2509.21265?)
+7. [2025 ICCV] **ProbMed: A Probabilistic Framework for Medical Multimodal Binding** [[paper]](https://www.arxiv.org/pdf/2509.25711) [[code]](https://github.com/mcintoshML/probMED)
+8. [2025 ICCV] **Is Visual in-Context Learning for Compositional Medical Tasks within Reach?** [[[paper]](https://arxiv.org/pdf/2507.00868)
+9. [2025 ICCV] **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [[paper]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
+10. [2025 ICCV] **GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology** [[paper]](https://arxiv.org/pdf/2504.01009) [[code]](https://github.com/bmi-imaginelab/GECKO/tree/main)
+11. [2025 NIPS] **RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability** [[paper]](https://arxiv.org/pdf/2504.07416) [[code]](https://github.com/deepnoid-ai/RadZero)
+12. [2025 Nature] **Towards a general-purpose foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02857-3) [[note]](https://mp.weixin.qq.com/s/mwpwpq8gUmjUDyGpn5rBUg)
+13. [2025 Nature] **A pathology foundation model for cancer diagnosis and prognosis prediction**  [[paper]](https://www.nature.com/articles/s41586-024-07894-z) [[note]](https://mp.weixin.qq.com/s/2PsDXiVLwye-CzgMdR1qyQ)
+14. [2026 CVPR] **Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images** [[paper]](https://arxiv.org/pdf/2603.18461) [[code]](https://github.com/naivete5656/CPNN) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cell-Type+Prototype-Informed+Neural+Network+for+Gene+Expression+Estimation+from+Pathology+Images&btnG=)
+15. [2026 CVPR] **Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding** [[paper]](https://arxiv.org/pdf/2604.01749) [[code]](https://github.com/ZJUDataIntelligence/Ultrasound-CLIP) [[note]](https://mp.weixin.qq.com/s/oGBXI8sPsLfVuVPZm7IhDw)
 
 <a name="34D"></a>
 # Medical Image of 3D & 4D
