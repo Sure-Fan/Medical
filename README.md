@@ -3,7 +3,7 @@
 >[[Semi Supervised Medical Image Segmentation](#Weakly)]
 >[[Training Medical Image Segmentation](#Training)]
 >[[Training-free Medical Image Segmentation](#Training_free)]
->[Medical Image Classification](#Classification)]
+>[[Medical Image Classification](#Classification)]
 >[[Medical Image Analysis](#Analysis)]
 >[[Medical Image of 3D & 4D](#34D)]
 >[[Medical Benchmark](#Benchmark)]
