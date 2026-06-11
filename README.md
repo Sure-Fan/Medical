@@ -1,6 +1,6 @@
 # Content
 >[[Weakly Supervised Medical Image Segmentation](#Weakly)]
->[[Semi Supervised Medical Image Segmentation](#Weakly)]
+>[[Semi Supervised Medical Image Segmentation](#Semi)]
 >[[Training Medical Image Segmentation](#Training)]
 >[[Training-free Medical Image Segmentation](#Training_free)]
 >[[Medical Image Classification](#Classification)]
