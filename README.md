@@ -23,6 +23,7 @@
 9. [2025 arXiv] **Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis** [[paper]](https://arxiv.org/pdf/2507.02395) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Continual+Multiple+Instance+Learning+with+Enhanced+Localization+for+Histopathological+Whole+Slide+Image+Analysis&btnG=)
 10. [2026 MIDL] **ConStruct: Structural Distillation of Foundation Models for Prototype-Based Weakly Supervised Histopathology Segmentation** [[paper]](https://arxiv.org/pdf/2512.10316) [[code]](https://github.com/tom1209-netizen/ConStruct)
 11. [2026 IF] **Expert knowledge-guided multi-granularity multi-scale fusion for weakly-supervised histological segmentation** [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253525005056/pdfft?md5=a107fdc34bb09e886355541356f3c7ea&pid=1-s2.0-S1566253525005056-main.pdf)
+12. [2026 TIP] **DiCLIP: Diffusion Model Enhances CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2605.04593) [[code]](https://github.com/zwyang6/DiCLIP)
 
 <a name="Semi"></a>
 # Semi Supervised Medical Image Segmentation
