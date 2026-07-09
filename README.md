@@ -1,6 +1,6 @@
 # Content
 >[[Weakly Supervised Medical Image Segmentation](#Weakly)]
->[[Semi-Supervised Medical Image Segmentation](#Semi)]
+>[[Semi Supervised Medical Image Segmentation](#Semi)]
 >[[Training Medical Image Segmentation](#Training)]
 >[[Training-free Medical Image Segmentation](#Training_free)]
 >[[Medical Image Classification](#Classification)]
@@ -25,7 +25,7 @@
 11. [2026 IF] **Expert knowledge-guided multi-granularity multi-scale fusion for weakly-supervised histological segmentation** [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253525005056/pdfft?md5=a107fdc34bb09e886355541356f3c7ea&pid=1-s2.0-S1566253525005056-main.pdf)
 
 <a name="Semi"></a>
-# Semi-Supervised Medical Image Segmentation
+# Semi Supervised Medical Image Segmentation
 1. [2025 ICCV] **Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/html/2407.21586v1) [[code]](https://github.com/ziziyao/ALHVR.) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Adaptive+Learning+of+High-Value+Regions+for+Semi-Supervised+Medical+Image+Segmentation&btnG=)
 2. [2025 NIPS] **Segment Anything Model Meets Semi-supervised Medical Image Segmentation: A Novel Perspective** [[paper]](https://openreview.net/pdf?id=wHx7UuRm7G) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Segment+Anything+Model+Meets+Semi-supervised+Medical+Image+Segmentation%3A+A+Novel+Perspective&btnG=)
 3. [2025 AAAI] **DuSSS: Dual Semantic Similarity-Supervised Vision-Language Model for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2412.12492) [[code]](https://github.com/QingtaoPan/DuSSS/)
