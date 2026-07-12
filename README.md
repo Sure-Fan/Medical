@@ -122,13 +122,17 @@
 3. [2025 Nature] **Benchmarking foundation models as feature extractors for weakly supervised computational pathology** [[paper]](https://arxiv.org/pdf/2408.15823) [[code]](https://github.com/KatherLab/STAMP)
 4.  [2025 CVPR] **Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline** [[paper]](https://arxiv.org/pdf/2411.12814) [[code]](https://github.com/uni-medical/IMIS-Bench) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Interactive+Medical+Image+Segmentation%3A+A+Benchmark+Dataset+and+Baseline&btnG=)
 5. [2026 arXiv] **To What Extent Do Token-Level Representations from Pathology Foundation Models Improve Dense Prediction?** [[paper]](https://arxiv.org/pdf/2602.03887) [[code]](https://github.com/lingxitong/PFM_Segmentation)
+6. [2026 CVPR] **SHands: A Multi-View Dataset and Benchmark for Surgical Hand- Gesture and Error Recognition Toward Medical Training** [[paper]](https://arxiv.org/pdf/2603.26400) [[code]](https://lm-collab.github.io/Shands-project-page/)
+7. [2026 CVPR] **Benchmarking Endoscopic Surgical Image Restoration and Beyond** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Pei_Benchmarking_Endoscopic_Surgical_Image_Restoration_and_Beyond_CVPR_2026_paper.pdf) [[code]](https://github.com/PJLallen/Surgical-Image-Restoration)
+8. [2026 CVPR] **Surgxbench: Explainable vision-language model benchmark for surgery** [[paper]](https://openaccess.thecvf.com/content/WACV2026/papers/Cheng_SurgXBench_Explainable_Vision-Language_Model_Benchmark_for_Surgery_WACV_2026_paper.pdf ) [[code]](https://github.com/jiajun344/SurgXBench-Explainable-Vision-Language-Model-Benchmark-for-Surgery)
 
 <a name="Foundational"></a>
 # Medical foundational Model
 1. [2022 EMNLP]  **MedCLIP: Contrastive Learning from Unpaired Medical Images and Texts** [[paper]](https://arxiv.org/pdf/2210.10163) [[code]](https://github.com/RyanWangZf/MedCLIP) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedCLIP%3A+Contrastive+Learning+from+Unpaired+Medical+Images+and+Texts&btnG=)
 2. [2024 arXiv] **Hibou: A family of foundational vision transformers for pathology** [[paper]](https://arxiv.org/pdf/2406.05074) [[code]](https://github.com/HistAI/hibou) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=HIBOU%3A+A+FAMILY+OF+FOUNDATIONAL+VISION+TRANSFORMERS+FOR+PATHOLOGY&btnG=)
 3. [2025 arXiv] **MedDINOv3: How to adapt vision foundation models for medical image segmentation?** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedDINOv3%3A+How+to+adapt+vision+foundation+models+for+medical+image+segmentation%3F&btnG=)
-4. [2026 CVOR] **LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.pdf) [[code]](https://github.com/visurg-ai/LEMON)
+4. [2026 CVPR] **LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.pdf) [[code]](https://github.com/visurg-ai/LEMON)
+5. [2026 CVPR] **SurgMotion: A Video-Native Foundation Model for Universal Understanding of Surgical Videos** [[paper]](https://arxiv.org/pdf/2602.05638) [[code]](https://github.com/CAIR-HKISI/SurgMotion)
 
 <a name="Data"></a>
 # Histopathology Data
