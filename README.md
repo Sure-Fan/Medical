@@ -7,7 +7,8 @@
 >[[Medical Image Analysis](#Analysis)]
 >[[Medical Image of 3D & 4D](#34D)]
 >[[Medical Benchmark](#Benchmark)]
->[[Medical Foundational Model](#Foundational)]
+>[[Medical VFM](#VFM)]
+>[[Medical VLM](#VLM)]
 >[[Histopathology Data](#Data)]
 
 <a name="Weakly"></a>
@@ -126,14 +127,17 @@
 7. [2026 CVPR] **Benchmarking Endoscopic Surgical Image Restoration and Beyond** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Pei_Benchmarking_Endoscopic_Surgical_Image_Restoration_and_Beyond_CVPR_2026_paper.pdf) [[code]](https://github.com/PJLallen/Surgical-Image-Restoration)
 8. [2026 CVPR] **Surgxbench: Explainable vision-language model benchmark for surgery** [[paper]](https://openaccess.thecvf.com/content/WACV2026/papers/Cheng_SurgXBench_Explainable_Vision-Language_Model_Benchmark_for_Surgery_WACV_2026_paper.pdf ) [[code]](https://github.com/jiajun344/SurgXBench-Explainable-Vision-Language-Model-Benchmark-for-Surgery)
 
-<a name="Foundational"></a>
-# Medical foundational Model
+<a name="VFM"></a>
+# Medical VFM
+1. [2024 arXiv] **Hibou: A family of foundational vision transformers for pathology** [[paper]](https://arxiv.org/pdf/2406.05074) [[code]](https://github.com/HistAI/hibou) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=HIBOU%3A+A+FAMILY+OF+FOUNDATIONAL+VISION+TRANSFORMERS+FOR+PATHOLOGY&btnG=)
+2. [2025 arXiv] **MedDINOv3: How to adapt vision foundation models for medical image segmentation?** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedDINOv3%3A+How+to+adapt+vision+foundation+models+for+medical+image+segmentation%3F&btnG=)
+3. [2026 CVPR] **LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.pdf) [[code]](https://github.com/visurg-ai/LEMON)
+4. [2026 CVPR] **SurgMotion: A Video-Native Foundation Model for Universal Understanding of Surgical Videos** [[paper]](https://arxiv.org/pdf/2602.05638) [[code]](https://github.com/CAIR-HKISI/SurgMotion)
+
+<a name="VLM"></a>
+# Medical VLM
 1. [2022 EMNLP]  **MedCLIP: Contrastive Learning from Unpaired Medical Images and Texts** [[paper]](https://arxiv.org/pdf/2210.10163) [[code]](https://github.com/RyanWangZf/MedCLIP) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedCLIP%3A+Contrastive+Learning+from+Unpaired+Medical+Images+and+Texts&btnG=)
 2. [2024 Nature medicine] **Conch: A visual-language foundation model for computational pathology** [[paper]](https://github.com/mahmoodlab/CONCH) [[code]](https://github.com/mahmoodlab/CONCH) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+visual-language+foundation+model+for+computational+pathology&btnG=)
-3. [2024 arXiv] **Hibou: A family of foundational vision transformers for pathology** [[paper]](https://arxiv.org/pdf/2406.05074) [[code]](https://github.com/HistAI/hibou) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=HIBOU%3A+A+FAMILY+OF+FOUNDATIONAL+VISION+TRANSFORMERS+FOR+PATHOLOGY&btnG=)
-4. [2025 arXiv] **MedDINOv3: How to adapt vision foundation models for medical image segmentation?** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedDINOv3%3A+How+to+adapt+vision+foundation+models+for+medical+image+segmentation%3F&btnG=)
-5. [2026 CVPR] **LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.pdf) [[code]](https://github.com/visurg-ai/LEMON)
-6. [2026 CVPR] **SurgMotion: A Video-Native Foundation Model for Universal Understanding of Surgical Videos** [[paper]](https://arxiv.org/pdf/2602.05638) [[code]](https://github.com/CAIR-HKISI/SurgMotion)
 
 <a name="Data"></a>
 # Histopathology Data
