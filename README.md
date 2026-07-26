@@ -130,9 +130,10 @@
 <a name="VFM"></a>
 # Medical VFM
 1. [2024 arXiv] **Hibou: A family of foundational vision transformers for pathology** [[paper]](https://arxiv.org/pdf/2406.05074) [[code]](https://github.com/HistAI/hibou) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=HIBOU%3A+A+FAMILY+OF+FOUNDATIONAL+VISION+TRANSFORMERS+FOR+PATHOLOGY&btnG=)
-2. [2025 arXiv] **MedDINOv3: How to adapt vision foundation models for medical image segmentation?** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedDINOv3%3A+How+to+adapt+vision+foundation+models+for+medical+image+segmentation%3F&btnG=)
-3. [2026 CVPR] **LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.pdf) [[code]](https://github.com/visurg-ai/LEMON)
-4. [2026 CVPR] **SurgMotion: A Video-Native Foundation Model for Universal Understanding of Surgical Videos** [[paper]](https://arxiv.org/pdf/2602.05638) [[code]](https://github.com/CAIR-HKISI/SurgMotion)
+2. [2024 Nature medicine] **Towards a general-purpose foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02857-3) [[code]](https://github.com/mahmoodlab/UNI) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C3&q=Towards+a+general-purpose+foundation+model+for+computational+pathology&btnG=)
+3. [2025 arXiv] **MedDINOv3: How to adapt vision foundation models for medical image segmentation?** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedDINOv3%3A+How+to+adapt+vision+foundation+models+for+medical+image+segmentation%3F&btnG=)
+4. [2026 CVPR] **LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.pdf) [[code]](https://github.com/visurg-ai/LEMON)
+5. [2026 CVPR] **SurgMotion: A Video-Native Foundation Model for Universal Understanding of Surgical Videos** [[paper]](https://arxiv.org/pdf/2602.05638) [[code]](https://github.com/CAIR-HKISI/SurgMotion)
 
 <a name="VLM"></a>
 # Medical VLM
