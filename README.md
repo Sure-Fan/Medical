@@ -36,6 +36,7 @@
 7. [2026 TIP] **Knowledge-Prompted Trustworthy Disentangled Learning for Thyroid Ultrasound Segmentation With Limited Annotations** [[paper]](https://ieeexplore.ieee.org/abstract/document/11360589) [[code]](https://github.com/bake-sin/KPTD)
 8. [2026 TIP] **SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-Training** [[paper]](https://ieeexplore.ieee.org/abstract/document/11371598) [[code]](https://github.com/stevezs315/SuperCL)
 9. [2026 TIP] **Decoupling Target Semantics via Text-Anchored Visual Contrast for Semi-Supervised Medical Image Segmentation** [[paper]](https://ieeexplore.ieee.org/abstract/document/11449407) [[code]](https://github.com/jgfiuuuu/TeViD)
+10. [2026 MedIA] **DPFR: Semi-supervised gland segmentation via density perturbation and feature recalibration** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841526000319) [[code]](https://github.com/Methow0/DPFR)
 
 <a name="Training"></a>
 # Training Medical Image Segmentation
