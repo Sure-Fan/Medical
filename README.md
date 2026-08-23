@@ -77,7 +77,7 @@
 
 <a name="Classification"></a>
 # Medical Image Classification
-1. [2024 arXiv] **Histo-TransCLIP: Boosting VLMs for Histopathology Classification** [[paper]](https://arxiv.org/pdf/2409.01883) [[code]](https://github.com/FereshteShakeri/Histo-TransCLIP)
+1. [2024 arXiv] **Boosting Vision-Language Models for Histopathology Classification: Predict All at Once (Histo-TransCLIP)** [[paper]](https://arxiv.org/pdf/2409.01883) [[code]](https://github.com/FereshteShakeri/Histo-TransCLIP)
 2. [2024 arXiv] **Few-shot Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.03868) [[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs)
 3. [2025 ICCV] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[paper]](https://arxiv.org/pdf/2502.08916) [[code]](https://pathfinder-dx.github.io/)
 4. [2025 NIPS] **MAPLE:Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification** [[paper]](https://arxiv.org/pdf/2509.25863) [[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
