@@ -106,6 +106,7 @@
 13. [2025 Nature] **A pathology foundation model for cancer diagnosis and prognosis prediction**  [[paper]](https://www.nature.com/articles/s41586-024-07894-z) [[note]](https://mp.weixin.qq.com/s/2PsDXiVLwye-CzgMdR1qyQ)
 14. [2026 CVPR] **Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images** [[paper]](https://arxiv.org/pdf/2603.18461) [[code]](https://github.com/naivete5656/CPNN) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cell-Type+Prototype-Informed+Neural+Network+for+Gene+Expression+Estimation+from+Pathology+Images&btnG=)
 15. [2026 CVPR] **Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding** [[paper]](https://arxiv.org/pdf/2604.01749) [[code]](https://github.com/ZJUDataIntelligence/Ultrasound-CLIP) [[note]](https://mp.weixin.qq.com/s/oGBXI8sPsLfVuVPZm7IhDw)
+16. [2026 ECCV] **One Slide, Many Views: Unifying Complementary Foundation Model Perspectives for WSI Analysis** [[paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2022.pdf) [[code]](https://github.com/wyhsleep/MV-MIL)
 
 <a name="34D"></a>
 # Medical Image of 3D & 4D
