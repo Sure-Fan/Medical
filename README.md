@@ -73,7 +73,8 @@
 # Training-free Medical Image Segmentation
 1. [2025 ICCV] **One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution** [[paper]](https://arxiv.org/pdf/2507.16337v1) [[code]](https://github.com/Hectormxy/OP-SAM) [[note]](https://mp.weixin.qq.com/s/nWL_PCYadzZpz-dV4TRpug?scene=1&click_id=2) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=One+Polyp+Identifies+All%3A+One-Shot+Polyp+Segmentation+with+SAM+via+Cascaded+Priors+and+Iterative+Prompt+Evolution&btnG=)
 2. [2025 NIPS] **Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/527d9d8f89aec80d634e366a97f49ba8-Paper-Conference.pdf) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cancer+Survival+Analysis+via+Zero-shot+Tumor+Microenvironment+Segmentation+on+Low-resolution+Whole+Slide+Pathology+Images&btnG=)
-3. [2026 ICLR] **SPROUT: Training-free Nuclear Instance Segmentation with Automatic Prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf) [[code]](https://github.com/anonymous) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SPROUT%3A+Training-free+Nuclear+Instance+Segmentation+with+Automatic+Prompting&btnG=)
+3. [2026 ICLR] **Supervise Less, See More: Training-free Nuclear Instance Segmentation with Prototype-Guided Prompting** [[paper]](Supervise Less, See More: Training-free Nuclear Instance Segmentation with
+Prototype-Guided Prompting) [[code]](https://github.com/Y-Research-SBU/SPROUT) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SPROUT%3A+Training-free+Nuclear+Instance+Segmentation+with+Automatic+Prompting&btnG=)
 
 <a name="Classification"></a>
 # Medical Image Classification
