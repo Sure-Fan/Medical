@@ -107,7 +107,6 @@
 14. [2026 CVPR] **Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images** [[paper]](https://arxiv.org/pdf/2603.18461) [[code]](https://github.com/naivete5656/CPNN) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cell-Type+Prototype-Informed+Neural+Network+for+Gene+Expression+Estimation+from+Pathology+Images&btnG=)
 15. [2026 CVPR] **Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding** [[paper]](https://arxiv.org/pdf/2604.01749) [[code]](https://github.com/ZJUDataIntelligence/Ultrasound-CLIP) [[note]](https://mp.weixin.qq.com/s/oGBXI8sPsLfVuVPZm7IhDw)
 16. [2026 ECCV] **One Slide, Many Views: Unifying Complementary Foundation Model Perspectives for WSI Analysis** [[paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2022.pdf) [[code]](https://github.com/wyhsleep/MV-MIL)
-17. [2026 NIPS] **Scaling Multi-Teacher Distillation for Digital Pathology** [[paper]](https://arxiv.org/pdf/2610.12574) [[code]](https://github.com/prism-oncology/omni)
 
 <a name="34D"></a>
 # Medical Image of 3D & 4D
@@ -139,6 +138,9 @@
 5. [2025 arXiv] **MedDINOv3: How to adapt vision foundation models for medical image segmentation?** [[paper]](https://arxiv.org/pdf/2509.02379) [[code]](https://github.com/ricklisz/MedDINOv3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedDINOv3%3A+How+to+adapt+vision+foundation+models+for+medical+image+segmentation%3F&btnG=)
 6. [2026 CVPR] **LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings** [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.pdf) [[code]](https://github.com/visurg-ai/LEMON)
 7. [2026 CVPR] **SurgMotion: A Video-Native Foundation Model for Universal Understanding of Surgical Videos** [[paper]](https://arxiv.org/pdf/2602.05638) [[code]](https://github.com/CAIR-HKISI/SurgMotion)
+8. [2026 NIPS] **Scaling Multi-Teacher Distillation for Digital Pathology** [[paper]](https://arxiv.org/pdf/2610.12574) [[code]](https://github.com/prism-oncology/omni)
+9. [2026 Nature Biomedical Engineering] **An explainable biomedical foundation model via large-scale concept-enhanced vision–language pretraining** [[paper]](https://arxiv.org/pdf/2501.15579)
+10. [Nature Computational Science] **Segment anything in pathology images with natural language** [[paper]](https://arxiv.org/pdf/2506.20988)
 
 <a name="VLM"></a>
 # Medical VLM
