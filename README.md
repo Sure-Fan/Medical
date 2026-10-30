@@ -145,6 +145,7 @@
 1. [2022 EMNLP]  **MedCLIP: Contrastive Learning from Unpaired Medical Images and Texts** [[paper]](https://arxiv.org/pdf/2210.10163) [[code]](https://github.com/RyanWangZf/MedCLIP) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C37&q=MedCLIP%3A+Contrastive+Learning+from+Unpaired+Medical+Images+and+Texts&btnG=)
 2. [2023 Nature medicine] **PLIP: A visual–language foundation model for pathology image analysis using medical Twitter** [[paper]](https://www.nature.com/articles/s41591-023-02504-3) [[code]](https://github.com/PathologyFoundation/plip) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=visual%E2%80%93language+foundation+model+for+pathology+image+analysis+using&btnG=)
 3. [2024 Nature medicine] **Conch: A visual-language foundation model for computational pathology** [[paper]](https://github.com/mahmoodlab/CONCH) [[code]](https://github.com/mahmoodlab/CONCH) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+visual-language+foundation+model+for+computational+pathology&btnG=)
+4. [2026 arXiv] **CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning** [[paper]](https://arxiv.org/pdf/2604.03231) [[code]](https://github.com/mbzuai-oryx/CoME-VL)
 
 <a name="Data"></a>
 # Histopathology Data
